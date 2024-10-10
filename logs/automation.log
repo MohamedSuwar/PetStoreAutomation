@@ -1,0 +1,24 @@
+11:41:20.378 [main] INFO  api.test.UserTests - ***************  Creating User  *********************
+11:41:23.141 [main] INFO  api.test.UserTests - ***************  Getting User Info  *********************
+11:41:23.639 [main] INFO  api.test.UserTests - ***************  User Info Is Displayed  *********************
+11:41:23.644 [main] INFO  api.test.UserTests - ***************  Update User Info  *********************
+11:41:25.257 [main] INFO  api.test.UserTests - ***************  Confirming User Info Is Updated  *********************
+11:41:25.754 [main] INFO  api.test.UserTests - ***************  Deleting User  *********************
+15:05:00.370 [main] INFO  api.test.UserTests - ***************  Creating User  *********************
+15:05:03.247 [main] INFO  api.test.UserTests - ***************  Getting User Info  *********************
+15:05:03.665 [main] INFO  api.test.UserTests - ***************  User Info Is Displayed  *********************
+15:05:03.666 [main] INFO  api.test.UserTests - ***************  Update User Info  *********************
+15:05:05.173 [main] INFO  api.test.UserTests - ***************  Confirming User Info Is Updated  *********************
+15:05:05.609 [main] INFO  api.test.UserTests - ***************  Deleting User  *********************
+16:31:46.705 [main] INFO  api.test.UserTests - ***************  Creating User  *********************
+16:31:49.851 [main] INFO  api.test.UserTests - ***************  Getting User Info  *********************
+16:31:50.372 [main] INFO  api.test.UserTests - ***************  User Info Is Displayed  *********************
+16:31:50.376 [main] INFO  api.test.UserTests - ***************  Update User Info  *********************
+16:31:51.868 [main] INFO  api.test.UserTests - ***************  Confirming User Info Is Updated  *********************
+16:31:52.300 [main] INFO  api.test.UserTests - ***************  Deleting User  *********************
+16:33:52.767 [main] INFO  api.test.UserTests - ***************  Creating User  *********************
+16:33:55.325 [main] INFO  api.test.UserTests - ***************  Getting User Info  *********************
+16:33:55.785 [main] INFO  api.test.UserTests - ***************  User Info Is Displayed  *********************
+16:33:55.787 [main] INFO  api.test.UserTests - ***************  Update User Info  *********************
+16:33:57.082 [main] INFO  api.test.UserTests - ***************  Confirming User Info Is Updated  *********************
+16:33:57.536 [main] INFO  api.test.UserTests - ***************  Deleting User  *********************
